@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f27ab2f8-4a4b-4fe5-ba78-5c676af4b692/resourceGroups/rg1/providers/Microsoft.Web/sites/MyCorriNodeApp1",
+    "appService.deploySubpath": ""
+}
